@@ -28,10 +28,10 @@ Similarly, refactoring the code decreased data processing times by nearly 90%, f
 
 ![Mod2_Challenge_Comp](https://user-images.githubusercontent.com/88443672/130892149-52f55b8b-89b0-4b6b-8650-53b7779bcc22.png)
 
-### Module 2 VBA Code
+### Module 2 VBA code
 ![Module2Code](https://user-images.githubusercontent.com/88443672/130895145-7c4d2090-a046-4c2b-bafc-0f72ecb3f6da.png)
 
-### Challenge VBA Code with added arrays and tickerindex
+### Challenge VBA code refactored with added arrays and tickerindex
 ![ChallengeCode](https://user-images.githubusercontent.com/88443672/130895433-81fa3fb2-9f28-4066-8ad1-8929bb069984.png)
 
 
