@@ -28,6 +28,13 @@ Similarly, refactoring the code decreased data processing times by nearly 90%, f
 
 ![Mod2_Challenge_Comp](https://user-images.githubusercontent.com/88443672/130892149-52f55b8b-89b0-4b6b-8650-53b7779bcc22.png)
 
+# Module 2 VBA Code
+![Module2Code](https://user-images.githubusercontent.com/88443672/130895145-7c4d2090-a046-4c2b-bafc-0f72ecb3f6da.png)
+
+# Challenge VBA Code with added arrays and tickerindex
+![ChallengeCode](https://user-images.githubusercontent.com/88443672/130895157-fbeb6d44-f92d-4bc2-bea8-56a9d660d404.png)
+
+
 ## Summary
 - What are the advantages or disadvantages of refactoring code?
   The advantages of refactoring code include clearner/more-compact code, faster run-times, less processing capacity utilization, and the benefit of learning via solving the same problem a different way.  Additionally, if you end up with different results, it may help identify errors in the initial code.  Disadvantages of refactoring code come via adding complexity to the code via the increasedx room for error and the time involved to solve problems along the way.  You already had code that worked.  Is the extra time and effort spent refactoring the code worth the benefits gained?  
